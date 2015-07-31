@@ -1,8 +1,17 @@
 # DesktopUnityChan
 
+SDユニティちゃんのデスクトップマスコットです。  
+
 ![demo.gif](https://github.com/seinosuke/DesktopUnityChan/blob/master/images/demo.gif)
 
-SDユニティちゃんのデスクトップマスコットです。  
+## ダウンロード
+
+[DesktopUnityChan_x86.zip](https://github.com/seinosuke/DesktopUnityChan/releases/download/v0.1.0/DesktopUnityChan_x86.zip)  
+[DesktopUnityChan_x86_64.zip](https://github.com/seinosuke/DesktopUnityChan/releases/download/v0.1.0/DesktopUnityChan_x86_64.zip)  
+
+## 使い方
+
+[【Unity】 SDユニティちゃんでデスクトップマスコットをつくってみた](http://syoshinsyakangeisagi.blogspot.com/2015/07/unity-sd.html) を参照してください。
 
 ## ライセンス
 
